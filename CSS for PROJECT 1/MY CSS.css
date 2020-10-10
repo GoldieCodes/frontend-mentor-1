@@ -48,7 +48,7 @@ content{
 	padding: 30px;
 	padding-top: 20px;
 	border-radius: 8px;
-	box-shadow: 0 10px 15px cornflowerblue;
+	box-shadow: 0 10px 15px hsl(229, 6%, 66%);
 	position: relative;
 }
 
